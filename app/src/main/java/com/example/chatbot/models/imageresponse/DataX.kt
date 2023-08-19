@@ -1,5 +1,5 @@
 package com.example.chatbot.models.imageresponse
 
-data class Data(
+data class DataX(
     val url: String
 )
