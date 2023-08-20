@@ -1,4 +1,4 @@
-![App1](https://github.com/yellurividyendra/OverEngineered/assets/124505605/cbfc06b6-ad1f-427d-a481-0239fd6060b6)# OverEngineered
+# OverEngineered
 
 
 ![logo](https://github.com/yellurividyendra/OverEngineered/assets/124505605/e945daac-3105-4dbb-8d07-38ecafe5bca8)
@@ -21,12 +21,9 @@ GSON Converter: Integrates the GSON Converter (2.9.0) to handle JSON serializati
 . Image Loading:
 Glide: Incorporates Glide (4.15.0) for efficient image loading and caching.
 .MVVM
-# Screenshots 
-![App1](https://github.com/yellurividyendra/OverEngineered/assets/124505605/3980b3c0-ae75-4085-9ebe-77d248152450)
-![App2](https://github.com/yellurividyendra/OverEngineered/assets/124505605/76273861-aa5f-4a06-9746-833004d355b7)
-![App3](https://github.com/yellurividyendra/OverEngineered/assets/124505605/3607cfd8-791a-4426-843c-bd5a132cf33e)
-![App4](https://github.com/yellurividyendra/OverEngineered/assets/124505605/7990c231-19fd-40a5-ae18-0920d2acf154)
-![App5](https://github.com/yellurividyendra/OverEngineered/assets/124505605/37dbb240-9af7-473b-991d-712553448327)
+
+# ScreenShots
+![ReadMeSS](https://github.com/yellurividyendra/OverEngineered/assets/124505605/be090737-3636-4c78-8ef0-350ca1a6ccb1)
 
 ## Important Note: Chatbot API Integration
 
