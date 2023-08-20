@@ -12,15 +12,16 @@ Welcome to the repository for our Chatbot and Image Generation App! This versati
 - **Image Generation:** Creates unique images.
 
 # Features
-. Coroutines
-. Network Communication:
-. Retrofit: Utilizes Retrofit (2.9.0) for efficient HTTP communication and API consumption.
-. GSON Converter: Integrates the GSON Converter (2.9.0) to handle JSON serialization/deserialization.
-. Lottie Animations
-. postman
-. Image Loading:
-. Glide: Incorporates Glide (4.15.0) for efficient image loading and caching.
-. MVVM
+* Coroutines
+* Network Communication:
+  * Retrofit: Utilizes Retrofit (2.9.0) for efficient HTTP communication and API consumption.
+  * GSON Converter: Integrates the GSON Converter (2.9.0) to handle JSON serialization/deserialization.
+* Lottie Animations
+* Postman
+* Image Loading:
+  * Glide: Incorporates Glide (4.15.0) for efficient image loading and caching.
+* MVVM
+
 
 # ScreenShots
 ![ReadMeSS](https://github.com/yellurividyendra/OverEngineered/assets/124505605/be090737-3636-4c78-8ef0-350ca1a6ccb1)
