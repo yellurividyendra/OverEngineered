@@ -5,8 +5,7 @@
 #                               Chatbot and Image Generation App
 
 Welcome to the repository for our Chatbot and Image Generation App! This versatile application combines both a Chatbot and an Image Generation feature to provide users with a diverse and engaging experience.
-## Features
-
+# Description
 - **Chatbot:** Engage in interactive conversations with an AI-powered chatbot. Enter text-based messages, and the chatbot will respond with contextually relevant replies.
 
 - **Image Generation:** Creates unique images.
