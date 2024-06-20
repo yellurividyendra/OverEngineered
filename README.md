@@ -22,8 +22,12 @@ Welcome to the repository for our Chatbot and Image Generation App! This versati
 * MVVM
 
 
-# ScreenShots
-![ReadMeSS](https://github.com/yellurividyendra/OverEngineered/assets/124505605/be090737-3636-4c78-8ef0-350ca1a6ccb1)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/yellurividyendra/OverEngineered/assets/124505605/da8f1075-c42e-4a4d-b72e-7da8c65cfd7c" alt="Screenshot 1" width="250" style="margin: 10px;" />
+    <img src="https://github.com/yellurividyendra/OverEngineered/assets/124505605/38f84558-629b-47d5-a1ae-d0e02cc824c7" alt="Screenshot 2" width="250" style="margin: 10px;" />
+    <img src="https://github.com/yellurividyendra/OverEngineered/assets/124505605/cf25fde3-b9c9-4041-b2f5-f7b56a533b09" alt="Screenshot 3" width="250" style="margin: 10px;" />
+</div>
+
 
 # BUILD APK
 1. ChatBot - [ChatBotAPK.zip](https://github.com/yellurividyendra/OverEngineered/files/12388072/ChatBotAPK.zip)
